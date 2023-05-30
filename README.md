@@ -1,4 +1,4 @@
-# Matematica
+# Математика 30.05.23
 # 2ИСП11-20
 # Рыхлов Вадим
 ![image](https://github.com/Vadimhick/Matematica/assets/126570479/0d761754-da55-492d-81b8-6a317168649a)
